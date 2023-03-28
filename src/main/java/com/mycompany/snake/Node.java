@@ -10,10 +10,7 @@ public class Node {
     private int row;
     private int col;  
     
-    public Node(){
-        row = 0;
-        col = 0;
-    }
+    
     
     public Node(int row, int col) {
         this.row = row;

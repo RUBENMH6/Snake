@@ -14,9 +14,8 @@ public class SpecialFood extends Food {
     private int col;
     
     
-    
     public SpecialFood(int row, int col) {
-        super();
+        super(row, col);
     }
     
 }

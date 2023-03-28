@@ -13,9 +13,7 @@ public class Food extends Node {
     private int row;
     private int col;
     
-    public Food() {
-        super();
-    }
+    
     
     public Food(int row, int col) {
         super(row, col);
